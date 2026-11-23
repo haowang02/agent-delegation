@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agent-delegation",
+  "owner": {
+    "name": "haowang02",
+    "url": "https://github.com/haowang02"
+  },
+  "metadata": {
+    "description": "Delegate work to a separate CLI agent",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "agent-delegation",
+      "source": "./",
+      "description": "Delegates work to a separate CLI agent and retrieves its result. Supports Codex, Claude Code, OpenCode, Pi, and Antigravity (agy).",
+      "version": "0.0.1",
+      "category": "productivity",
+      "homepage": "https://github.com/haowang02/agent-delegation"
+    }
+  ]
+}

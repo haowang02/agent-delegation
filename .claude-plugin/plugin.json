@@ -1,0 +1,22 @@
+{
+  "name": "agent-delegation",
+  "version": "0.0.1",
+  "description": "Delegates work to a separate CLI agent and retrieves its result. Supports Codex, Claude Code, OpenCode, Pi, and Antigravity (agy).",
+  "author": {
+    "name": "haowang02",
+    "url": "https://github.com/haowang02"
+  },
+  "homepage": "https://github.com/haowang02/agent-delegation",
+  "repository": "https://github.com/haowang02/agent-delegation",
+  "license": "MIT",
+  "keywords": [
+    "delegate",
+    "subagent",
+    "codex",
+    "claude-code",
+    "opencode",
+    "pi",
+    "antigravity",
+    "skill"
+  ]
+}
